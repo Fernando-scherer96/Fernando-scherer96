@@ -22,4 +22,5 @@ Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas 
 - 📧 : [Fernando.scherer96@hotmail.com](mailto:Fernando.scherer96@hotmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/scherer.96)
 
-  
+  ![fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-scherer96&show_icons=true&theme=dracula)
+
