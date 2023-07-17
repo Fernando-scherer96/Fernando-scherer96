@@ -19,4 +19,7 @@ Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas 
 ## Contato 🤙🤙
 
 - LinkedIn: [Fernando Scherer](https://www.linkedin.com/in/fernando-scherer-1821bb1a1/)
-- Email: [Fernando.scherer96@hotmail.com](mailto:Fernando.scherer96@hotmail.com)
+- 📧 : [Fernando.scherer96@hotmail.com](mailto:Fernando.scherer96@hotmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/scherer.96)
+
+  
