@@ -21,8 +21,8 @@ Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas 
 - LinkedIn: [Fernando Scherer](https://www.linkedin.com/in/fernando-scherer-1821bb1a1/)
 - 📧 : [Fernando.scherer96@hotmail.com](mailto:Fernando.scherer96@hotmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/scherer.96)
-
-  ![fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-scherer96&show_icons=true&theme=dracula)
+ 
+  ![fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-scherer96&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-scherer96&size_weight=0.5&count_weight=0.5)
 
   ## Tecnologias que eu uso no meu dia
 
@@ -37,4 +37,3 @@ Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas 
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
