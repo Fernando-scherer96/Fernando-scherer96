@@ -1,16 +1,22 @@
-### Hi there 👋
+# Fernando Scherer (fernando-scherer96)
 
-<!--
-**Fernando-scherer96/Fernando-scherer96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Bem-vindo ao meu perfil do GitHub.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um programador jovem com conhecimentos em diversas tecnologias da área de desenvolvimento de software. Aqui estão algumas das minhas habilidades:
+
+- Python
+- Banco de Dados
+- JavaScript
+- Node.js
+- React
+
+## Projetos
+
+Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades e explorar diferentes áreas do desenvolvimento de software. Sinta-se à vontade para dar uma olhada em meus repositórios e contribuições.
+
+## Contato
+
+- LinkedIn: [Fernando Scherer](https://www.linkedin.com/in/fernando-scherer-1821bb1a1/)
+- Email: [Fernando.scherer96@hotmail.com](mailto:Fernando.scherer96@hotmail.com)
