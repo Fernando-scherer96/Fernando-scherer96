@@ -26,6 +26,8 @@ Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas 
 
   ## Tecnologias que eu uso no meu dia
 
+  Entusiasta da tecnologia, apaixonado por inovação e pronto para colaborar no mundo do desenvolvimento!
+
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
